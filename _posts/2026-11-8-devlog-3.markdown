@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "[ Devlog 3 ] Meet Mavi"
+date:   2026-10-31
+categories: devlog
+---
+{:refdef: style="text-align: center;"}
+![Rough Landing](/assets/images/mavi_run_diag_new.gif)
+{: refdef}
+{:refdef: style="text-align: center;"}
+![Rough Landing](/assets/images/mavi_run_front_new.gif)
+{: refdef}
+{:refdef: style="text-align: center;"}
+![Rough Landing](/assets/images/mavi_run_side_new.gif)
+{: refdef}
+{:refdef: style="text-align: center;"}
+![Rough Landing](/assets/images/mavi_run_front.gif)
+{: refdef}
+{:refdef: style="text-align: center;"}
+![Rough Landing](/assets/images/mav_run_side.gif)
+{: refdef}
+{:refdef: style="text-align: center;"}
+![Rough Landing](/assets/images/mavi_skin_autumn.png)
+{: refdef}
+{:refdef: style="text-align: center;"}
+![Rough Landing](/assets/images/mavi_skin_dark.png)
+{: refdef}
+{:refdef: style="text-align: center;"}
+![Rough Landing](/assets/images/mavi_walk_front.gif)
+{: refdef}
+{:refdef: style="text-align: center;"}
+![Rough Landing](/assets/images/mavi_walk_side.gif)
+{: refdef}
+{:refdef: style="text-align: center;"}
+![Rough Landing](/assets/images/mavi_walk_xray.gif)
+{: refdef}
