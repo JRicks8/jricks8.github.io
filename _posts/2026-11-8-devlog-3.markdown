@@ -11,28 +11,28 @@ This week has been encouraging for me. When I started this project I wasn't sure
 
 I feel like this one turned out pretty good.
 {:refdef: style="text-align: center;"}
-![Rough Landing](/assets/images/mavi_run_diag_new.gif)
-![Rough Landing](/assets/images/mavi_run_front_new.gif)
-![Rough Landing](/assets/images/mavi_run_side_new.gif)
+![Newer Mavi run, diagonal view](/assets/images/mavi_run_diag_new.gif)
+![Newer Mavi run, front view](/assets/images/mavi_run_front_new.gif)
+![Newer Mavi run, side view ](/assets/images/mavi_run_side_new.gif)
 {: refdef}
 
 This was pretty awful. This does not feel like how a bird would run, so I scrapped it. It honestly feels like one of those canned animations that you get off of a website. Does not fit the character at all. The legs aren't even bending the right way!
 {:refdef: style="text-align: center;"}
-![Rough Landing](/assets/images/mavi_run_front.gif)
-![Rough Landing](/assets/images/mav_run_side.gif)
+![Mavi running, front view](/assets/images/mavi_run_front.gif)
+![Mavi running, side view](/assets/images/mav_run_side.gif)
 {: refdef}
 
 This was my first attempt at a walk, and the first animation I tried to make. I was obviously rusty. You can see where the animation cycle loops, with an awkward pause between steps. I also included an xray view, so you can see how I rigged the model.
 {:refdef: style="text-align: center;"}
-![Rough Landing](/assets/images/mavi_walk_front.gif)
-![Rough Landing](/assets/images/mavi_walk_side.gif)
-![Rough Landing](/assets/images/mavi_walk_xray.gif)
+![Mavi walking, front view](/assets/images/mavi_walk_front.gif)
+![Mavi walking, side view](/assets/images/mavi_walk_side.gif)
+![Mavi walking, xray view](/assets/images/mavi_walk_xray.gif)
 {: refdef}
 
 Also, my girlfriend drew some initial skins for Mavi. I think they turned out pretty well! I liked the colors, though be both agreed that the orange one looks a little too much like a penguin. She plans on doing more passes on Mavi's colors.
 {:refdef: style="text-align: center;"}
-![Rough Landing](/assets/images/mavi_skin_autumn.png)
-![Rough Landing](/assets/images/mavi_skin_dark.png)
+![Mavi with orange colors](/assets/images/mavi_skin_autumn.png)
+![Mavi with dark colors](/assets/images/mavi_skin_dark.png)
 {: refdef}
 
 I plan on making/redoing some more animations. When I get them into the game and start doing animation state trees and blending, I think it will come together pretty nicely. I'm going to give myself another week to work on this, maximum.
