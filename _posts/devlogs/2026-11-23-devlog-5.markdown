@@ -7,6 +7,9 @@ categories: devlog
 # Since last week
 I spent my time integrating the animations into the game. It felt pretty good to see Mavi moving around like a real living thing. Even though this project is still very much in its infancy, simple visual flourishes really make it feel like it's coming together. This one has some cool in-game animations, as well as some of my early forays into environment design and terrain creation.
 
+## Quick appreciation for cel/toon shading
+I just want to say how AMAZING cel shading is. Who knew adding a little border around edges and flattening shading would become every indie dev's darling? It makes my crappy modeling and animations look so much better.
+
 # Animations in game
 Here Mavi is running and jumping. When the player is falling and holding the jump button, Mavi will flap their wings to try to stay in the air longer. I thought it'd be a cute little touch. Birds can't fly in this world, but they still try. Unfortunately, Mavi's fat little body is too heavy :(
 There's a nice little transition between the rising and falling animation. For this an all animations I incorporated, I have custom transition conditions and calculations for each of them. I'll talk more about that later.
