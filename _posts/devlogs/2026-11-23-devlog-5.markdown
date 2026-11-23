@@ -12,7 +12,8 @@ I just want to say how AMAZING cel shading is. Who knew adding a little border a
 
 # Animations in game
 Here Mavi is running and jumping. When the player is falling and holding the jump button, Mavi will flap their wings to try to stay in the air longer. I thought it'd be a cute little touch. Birds can't fly in this world, but they still try. Unfortunately, Mavi's fat little body is too heavy :(
-There's a nice little transition between the rising and falling animation. For this an all animations I incorporated, I have custom transition conditions and calculations for each of them. I'll talk more about that later.
+
+There's a nice little transition between the rising and falling animation. For this and all animations I incorporated, I have custom transition conditions and calculations for each of them. I'll talk more about that later.
 
 {:refdef: style="text-align: center;"}
 ![Mavi running and jumping, front view](/assets/images/mavi_runjump_front.gif)
